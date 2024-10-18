@@ -1,16 +1,15 @@
 # project 
 
 This is my personal portfolio website showcasing my skills, projects, and services as a Full Stack Web Developer. The website features a clean and modern UI, with separate sections for the home, projects, about, services, and contact information. It allows users to explore my projects, hire me, and download my resume. 
+
 I have used html , css , javascript for it 
-
 some view of my portfolio :->
-
-![portfolio1ss](https://github.com/user-attachments/assets/5f9fda6a-8b96-43b6-ad40-b04ef479de33)
-![portfolio2ss](https://github.com/user-attachments/assets/dda4d96d-1006-4533-97d9-fda03dd07bd1)
-![portfolio3ss](https://github.com/user-attachments/assets/3fb14cc7-d9c3-40d3-9701-d2537291723b)
-![portfolio4ss](https://github.com/user-attachments/assets/a9865983-9703-46c1-adcc-4982de89eb9d)
-![portfolio5ss](https://github.com/user-attachments/assets/28dca2ac-b198-4011-809f-d6837173f686)
-![portfolio6ss](https://github.com/user-attachments/assets/5837caf8-15a1-4da5-b145-6c2e7de476c3)
+![portfolio1ss](https://github.com/user-attachments/assets/8b5b8b69-a0da-4e7d-a7b9-2addcf20e10e)
+![portfolio2ss](https://github.com/user-attachments/assets/9f66db87-5c0d-441f-aed4-d5621f8d3a9d)
+![portfolio3ss](https://github.com/user-attachments/assets/c6651b8c-bfa9-486a-a545-57cdaf886a1d)
+![portfolio4ss](https://github.com/user-attachments/assets/8165c4f1-79ec-4fdd-bc9a-20ec04d17ff1)
+![portfolio5ss](https://github.com/user-attachments/assets/fd59d26b-eb3d-42bc-8b12-0763694e2467)
+![portfolio6ss](https://github.com/user-attachments/assets/442066bd-f63c-44f7-8b1f-81f50f20266b)
 
 Key Features
 
