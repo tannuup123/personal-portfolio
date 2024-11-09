@@ -11,6 +11,10 @@ body {
 
 }
 
+a {
+  text-decoration: none;
+}
+
 /* Header Navbar Styles */
 .navbar {
   display: flex;
