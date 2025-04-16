@@ -293,7 +293,7 @@ flex-direction: column-reverse;
   margin: 0;
   font-size: 0.8rem;
   color: black;
-  font-weight: lighter;
+  font-weight: lighter bold;
 }
 
 .links:hover {
