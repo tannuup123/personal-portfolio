@@ -221,44 +221,46 @@
     </div>
   </section>
 
-  <!-- Contact me section -->
-  <section class="contact" id="contact">
-    <div class="contact-heading">
-      <h1 class="my-heading text-center">Contact Me</h1>
-    </div>
-    <div class="contact-content">
-      <div class="contact-form-container">
-        <h1 class="greet-heading">Get In Touch</h1>
-        <form class="contact-form">
-          <input class="form-controls" type="text" placeholder="Your Name" />
-          <input class="form-controls" type="text" placeholder="Your Email" />
-          <input class="form-controls" type="text" placeholder="Your Phone" />
-          <textarea class="form-controls" placeholder="Write your message" name="message" id="" cols="30" rows="10">
-            </textarea>
-          <input class="form-btn btn common-btn" type="submit" value="Send Message" />
-        </form>
+ <section class="contact" id="contact">
+  <div class="contact-heading">
+    <h1 class="my-heading text-center">Contact Me</h1>
+  </div>
+  <div class="contact-content">
+    <div class="contact-form-container">
+      <h1 class="greet-heading">Get In Touch</h1>
+      
+      <form class="contact-form" action="https://formspree.io/f/xgvlgdkk" method="POST">
+        
+        <input class="form-controls" type="text" name="name" placeholder="Your Name" required />
+        
+        <input class="form-controls" type="email" name="email" placeholder="Your Email" required />
+        
+        <input class="form-controls" type="text" name="phone" placeholder="Your Phone" />
+        
+        <textarea class="form-controls" placeholder="Write your message" name="message" id="" cols="30" rows="10" required></textarea>
+        
+        <input class="form-btn btn common-btn" type="submit" value="Send Message" />
+      </form>
       </div>
-      <div class="contact-details">
-        <h1 class="greet-heading">My Contact Details</h1>
-        <div class="details">
-          <h5 class="contact-heading">EMAIL</h5>
-          <p class="contact-text">tanmayup123@gmail.com</p>
-        </div>
-        <div class="details">
-          <h5 class="contact-heading">PHONE</h5>
-          <p class="contact-text">+91 8126195971</p>
-        </div>
-
-
-        <div class="details">
-          <h5 class="contact-heading">ADDRESS</h5>
-          <p class="contact-text">Uttarakhand, district nainital</p>
-          <p>2/254,panchakki aastha vihar phase-1</p>
-          <p>near panchakki chauraha, haldwani, kathgodam</p>
-        </div>
+    <div class="contact-details">
+      <h1 class="greet-heading">My Contact Details</h1>
+      <div class="details">
+        <h5 class="contact-heading">EMAIL</h5>
+        <p class="contact-text">tanmayup123@gmail.com</p>
+      </div>
+      <div class="details">
+        <h5 class="contact-heading">PHONE</h5>
+        <p class="contact-text">+91 8126195971</p>
+      </div>
+      <div class="details">
+        <h5 class="contact-heading">ADDRESS</h5>
+        <p class="contact-text">Uttarakhand, district nainital</p>
+        <p>2/254,panchakki aastha vihar phase-1</p>
+        <p>near panchakki chauraha, haldwani, kathgodam</p>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
   <!-- Footer section -->
   <footer class="footer">
@@ -281,7 +283,8 @@
               </a>
             </li>
             <li class="footer-list-items">
-              <a class="footer-links" href="#">
+              <a class="footer-links" 
+              href="https://www.instagram.com/t.a.n.m.a.y_27.07.19?igsh=bzdyNmU0cTBnNzV6">
                 <i class="fab fa-instagram"></i>
               </a>
             </li>
