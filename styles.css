@@ -273,7 +273,9 @@ a {
   font-size: 2.5rem;
   margin: 0.5rem 0;
 }
-
+.text-center {
+  text-align: center;
+}
 .sub-heading {
   margin: 0;
   font-size: 1.2rem;
@@ -317,7 +319,7 @@ a {
   color: #35a99c;
 }
 
-.ghost-btn {
+/*.ghost-btn {
   background-color: transparent;
   color: #fff;
   border: 2px solid #fff;
@@ -326,11 +328,23 @@ a {
 .ghost-btn:hover {
   background-color: #fff;
   color: #35a99c;
+}); */
+
+.ghost-btn1 {
+padding-left: 85px;
+padding-right: 85px;
+  background-color:transparent;
+  color: #fff;
+  border: 2px solid #ffffff;
+  transition: all 0.25s;
 }
 
+.ghost-btn1:hover {
+  background-color: #fff;
+  color: #35a99c;
 .text-center {
   text-align: center;
-}
+} }
 
 .small-para {
   font-size: 1rem;
