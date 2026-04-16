@@ -182,8 +182,8 @@ a {
 }
 
 .icon {
-  height: 100px;
-  width: 100px;
+  height: 110px;
+  width: 110px;
   border-radius: 50%;
   background-color: #363d73;
   display: flex;
@@ -193,7 +193,8 @@ a {
 }
 
 .icon i {
-  font-size: 30px;
+  font-size: 45px;
+    line-height: 1;
   color: #fff;
 }
 
